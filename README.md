@@ -70,4 +70,3 @@ Export gesture logs or analytics
 
 ---
 Author: Farzin Paydar  
-License: [MIT License](./[License])
