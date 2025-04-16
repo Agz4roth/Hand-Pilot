@@ -24,6 +24,21 @@ HandPilot is a Python-based tool that uses your webcam and hand gestures to cont
 - A working webcam
 - A relatively good lighting condition for accurate recognition
 
+  
+## Getting Started
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone https://github.com/Agz4roth/Hand-Pilot.git
+```
+
+Then navigate into the project folder:
+
+```bash
+cd Hand-Pilot
+```
+
 ## Installation
 
 To install the required packages, run:
