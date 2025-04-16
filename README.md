@@ -70,4 +70,4 @@ Export gesture logs or analytics
 
 ---
 Author: Farzin Paydar  
-License: [MIT License](./LICENSE)
+License: [MIT License](./[LICENSE](https://github.com/Agz4roth/Hand-Pilot/blob/master/License))
