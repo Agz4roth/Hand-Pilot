@@ -69,5 +69,5 @@ Train custom gestures using machine learning
 Export gesture logs or analytics
 
 ---
-Author: Agz4roth  
+Author: Farzin Paydar  
 License: [MIT License](./LICENSE)
