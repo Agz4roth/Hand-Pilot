@@ -1,7 +1,0 @@
-*.exe
-*.7z
-*.dll
-pycache/
-venv/
-vpn/
-Tor Browser/
